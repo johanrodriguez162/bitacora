@@ -5,5 +5,4 @@
 |----|-----------|---------|----------------|--------------|---------------|
 |  1 |11/09/2026 13:00|Jose David Castro|Creamos y organizamos nuestra foto de perfil y los datos personales para configurar correctamente nuestro perfil de GitHub|Sin impedimentos operativos|Se continuo con la siguiente actividad|
 |  2 |11/09/2026 15:30|Jose David Castro|El instructor organizo los equipos mediante una ruleta virtual y posteriormente el lider creo el repositorio para trabajar con los integrantes|Sin impedimentos operativos|Se invito a los companeros y se continuo con el desarrollo del proyecto|
-|
-|
+|  3 |11/09/2026 16:30|Jose David Castro|Realizamos el proyecto de acuerdo con el contrato y posteriormente fusionamos las ramas de los integrantes para integrar los avances|Al realizar el merge se presento un conflicto debido a cambios realizados en las mismas lineas del archivo|Revisamos el conflicto, eliminamos las líneas que generaban el problema y solucionamos correctamente el merge|
