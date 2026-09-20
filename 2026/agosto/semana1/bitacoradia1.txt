@@ -5,4 +5,4 @@
 |----|-----------|---------|----------------|--------------|---------------|
 |  1 |31/08/2026 13:40|Jose david castro ortiz|Actividad de analisis audiovisual El impacto del vacio documental|Sin impedimentos operativos|Hacer un informe de las concluciones del video y proponer unas mejoras|				
 |  2 |31/08/2026 14:01|Jose david castro ortiz|Actividad de analisis de consecuencias en la industria tecnologica|Sin inpedimentos operativos|Actividad de analisis a las consecuencias en la industria  tecnologica|
-|
+|  3 |01/08/2026 14:19|Jose david castro ortiz|Refactorizacion y depuracion de registros tecnicos|Dificulta en la comprencion de la actividad|Revisar plan de apoyo, aplicar refactorizacion a los registros y validar con el instructor para asegurar comprencion de los criterios|
