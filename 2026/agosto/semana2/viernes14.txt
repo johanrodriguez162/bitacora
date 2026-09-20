@@ -3,8 +3,8 @@
 
 | ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
 |----|-----------|---------|----------------|--------------|---------------|
-|  1 |14/08/2026 14:00| Jose David Castro| Actividad: La maestria mas alla del sentido de la vista y Exposicion expres y lluvia de ideas en equipo|sin impedimentos|Continuar con la siguiente fase del desarrollo. Mantener el ritmo de trabajo en equipo| 	
-|
-|
-|
+|  1 |14/08/2026 14:00|Jose David Castro|Actividad: La maestria mas alla del sentido de la vista y Exposicion expres y lluvia de ideas en equipo|sin impedimentos|Continuar con la siguiente fase del desarrollo. Mantener el ritmo de trabajo en equipo| 	
+|  2 |14/08/2026 15:54|Jose David Castro|Realizacion de interrogantes sobre la lluvia de ideas socializada en clase|sin impedimentos|Usar los interrogantes resueltos como base para definir los requerimientos del sistema| 
+|  3 |14/08/2026 17:50|Jose David Castro|Actividades de contextualizacion e identificacion de conocimientos|Complicacion en la realizacion del cudadro por falta de entendimiento|Repasar la documentación conceptual y consultar con el instructor, equipo para aclarar la estructura del cuadro|
+|  4 |15/08/2026 14:59|Jose David Castro|Actividades de apropiacion del conocimiento|complicacion con el conocimiento de algunos codigos|Consultar el manual oficial de los comandos, códigos y realizar pruebas prácticas en la terminal para afianzar el conocimiento|
 |
