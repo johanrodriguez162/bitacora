@@ -5,4 +5,4 @@
 |----|-----------|---------|----------------|--------------|---------------|
 |  1 |10/08/2026 15:00|Jose david castro ortiz|Auditoria de bitacora de forma individual en base a las bitacoras de mis companeros|Dificultad al contectarse al internet por motivos de sincronizacion|Estar preparado por fallas tecnicas|
 |  2 |10/08/2026 15:50|Jose david castro ortiz|Lista de chequeo en la cual verificamos las bitacoras de mis companeros|Ningun impedimento|No aplica| 
-|
+|  3 |10/08/2026 17:01|Jose david castro ortiz|Informe de la bitacora sobre los errores y o impedimentos de la realizacion de ella misma|Ningun impedimento|No aplica|
