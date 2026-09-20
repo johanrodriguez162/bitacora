@@ -1,0 +1,9 @@
+# plantilla control de trabajo diario ADSO
+## TABLA DE TRAZABILIDAD 
+
+| ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
+|----|-----------|---------|----------------|--------------|---------------|
+|  1 |10/08/2026 15:00|Jose david castro ortiz|Auditoria de bitacora de forma individual en base a las bitacoras de mis compañeros|Dificultad al contectarse al internet por motivos de sincronizacion|Estar preparado por fallas tecnicas|
+|
+|
+|
