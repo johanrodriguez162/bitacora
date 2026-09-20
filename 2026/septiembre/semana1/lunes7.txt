@@ -4,6 +4,6 @@
 | ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
 |----|-----------|---------|----------------|--------------|---------------|
 |  1 |07/09/2026 14:00|Jose David Castro|Se crearon grupos y en ellos teniamos que escoge una hoja maestra y terminar el diseno de la pagina online|Falta de creatividad y comunicacion para disenar la tienda online|Iniciar desarrollo de vista principal de usuario|
-|
+|  2 |07/09/2026 14:35|Jose David Castro|Se paso al punto B donde en grupos investigabamos unas preguntas para luego realizar un Kahoot en grupos|hubieron 2 preguntas del kahoot que nos quedaron mal sobre el tema git y github|realizar mas retroalimentacion sobre los conceptos de git y github|
 |
 |
