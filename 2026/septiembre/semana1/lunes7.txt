@@ -1,0 +1,9 @@
+# plantilla control de trabajo diario ADSO
+## TABLA DE TRAZABILIDAD 
+
+| ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
+|----|-----------|---------|----------------|--------------|---------------|
+|  1 |07/09/2026 14:00|Jose David Castro|Se crearon grupos y en ellos teniamos que escoge una hoja maestra y terminar el diseno de la pagina online|Falta de creatividad y comunicacion para disenar la tienda online|Iniciar desarrollo de vista principal de usuario|
+|
+|
+|
