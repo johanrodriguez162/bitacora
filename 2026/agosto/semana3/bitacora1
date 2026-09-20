@@ -1,17 +1,7 @@
 # plantilla control de trabajo diario ADSO
 # TABLA DE TRAZABILIDAD
-| ID |     Timestamp   |    autoria       |                              Objeto Tecnico                                     |                impedimentos                    |                    plan de accion                       |
-|  1  21/08/2026 1:00pm| Jose david castro| Juego Khoot! Referente a la guía terminal                                       | Recordar la información suministrada en la guía| Realizar plan de estudio que me perita memorizar el tema|
-|  2  21/08/2026 1:30pm| Jose david castro| Realización de lectura referente a la actividad de transferencia de conocimiento| sin impedimento alguno                         | no aplica                                               |
-|  3  21/08/2026 1:35pm| Jose david castro| Ejecución del aplicativo Git Bash                                               | sin impedimento alguno                         | no aplica                                               |  
-|  4
-|  5
-|  6
-|  7
-|  8
-|  9
-|  10
-|  11
-|  12
-|  13
-|  14
+|ID |     Timestamp    |    autoria       |                              Objeto Tecnico                                     |                impedimentos                    |                    plan de accion                       |
+| 1 | 21/08/2026 1:00pm| Jose david castro| Juego Khoot! Referente a la guía terminal                                       | Recordar la información suministrada en la guía| Realizar plan de estudio que me perita memorizar el tema|
+| 2 | 21/08/2026 1:30pm| Jose david castro| Realización de lectura referente a la actividad de transferencia de conocimiento| sin impedimento alguno                         | no aplica                                               |
+| 3 | 21/08/2026 1:35pm| Jose david castro| Ejecución del aplicativo Git Bash                                               | sin impedimento alguno                         | no aplica                                               |
+| 4 | 21/08/2026 13:37 | Jose david castro| Verificación de la ubicación en git bash                                        | sin impedimento alguno                         | no aplica                                               |
