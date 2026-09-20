@@ -1,0 +1,10 @@
+# plantilla control de trabajo diario ADSO
+## TABLA DE TRAZABILIDAD 
+
+| ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
+|----|-----------|---------|----------------|--------------|---------------|
+|  1 |14/08/2026 14:00| Jose David Castro| Actividad: La maestria mas alla del sentido de la vista y Exposicion expres y lluvia de ideas en equipo|sin impedimentos|Continuar con la siguiente fase del desarrollo. Mantener el ritmo de trabajo en equipo| 	
+|
+|
+|
+|
