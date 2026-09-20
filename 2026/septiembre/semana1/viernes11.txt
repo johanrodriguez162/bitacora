@@ -4,6 +4,6 @@
 | ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
 |----|-----------|---------|----------------|--------------|---------------|
 |  1 |11/09/2026 13:00|Jose David Castro|Creamos y organizamos nuestra foto de perfil y los datos personales para configurar correctamente nuestro perfil de GitHub|Sin impedimentos operativos|Se continuo con la siguiente actividad|
-| 
+|  2 |11/09/2026 15:30|Jose David Castro|El instructor organizo los equipos mediante una ruleta virtual y posteriormente el lider creo el repositorio para trabajar con los integrantes|Sin impedimentos operativos|Se invito a los companeros y se continuo con el desarrollo del proyecto|
 |
 |
