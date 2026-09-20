@@ -1,0 +1,9 @@
+# plantilla control de trabajo diario ADSO
+## TABLA DE TRAZABILIDAD 
+
+| ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
+|----|-----------|---------|----------------|--------------|---------------|
+|  1 |11/09/2026 13:00|Jose David Castro|Creamos y organizamos nuestra foto de perfil y los datos personales para configurar correctamente nuestro perfil de GitHub|Sin impedimentos operativos|Se continuo con la siguiente actividad|
+| 
+|
+|
