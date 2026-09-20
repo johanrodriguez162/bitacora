@@ -1,0 +1,8 @@
+# plantilla control de trabajo diario ADSO
+## TABLA DE TRAZABILIDAD 
+
+| ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
+|----|-----------|---------|----------------|--------------|---------------|
+|  1 |31/08/2026 13:40|Jose david castro ortiz|Actividad de analisis audiovisual El impacto del vacio documental|Sin impedimentos operativos|Hacer un informe de las concluciones del video y proponer unas mejoras|				
+|
+|
