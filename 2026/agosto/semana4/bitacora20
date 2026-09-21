@@ -1,6 +1,10 @@
 # plantilla control de trabajo diario ADSO
 ## TABLA DE TRAZABILIDAD 
 
-| ID | Timestamp | autoria | Objeto Tecnico | impedimentos | plan de accion| 
-|----|-----------|---------|----------------|--------------|---------------|
-|  1 |20/08/2026 6:20|Jose david castro|Se realizo la busqueda de Codi explorando el repositorio rama por rama, navegando desde las ramas mas profundas hasta la rama inicial, hasta localizar el archivo personaje_codi.txt en la rama personaje_codi.txt|complicacion en escribir algunos comandos en la terminal|poner mas en practica lo visto en clase y explicado por el instructor|
+| ID | Timestamp       |       autoria   | Objeto Tecnico | impedimentos | plan de accion| 
+|----|-----------------|-----------------|----------------|--------------|---------------|
+|  1 | 20/08/2026 18:20|Jose David Castro|Se realizo la busqueda de Codi explorando el repositorio rama por rama, navegando desde las ramas mas profundas hasta la rama inicial, hasta localizar el archivo personaje_codi.txt en la rama personaje_codi.txt.|complicacion en escribir algunos comandos en la terminal|poner mas en practica lo visto en clase y explicado por el instructor|
+|  2 |20/08/2026 18:20|Jose David Castro|git log --all --graph --oneline: Visualizar la estructura completa del multiverso (todas las ramas) e identificar donde estaba Codi|Confusion para identificar la rama correcta por la cantidad de bifurcaciones|aplicar lo visto en clase y seguir las indicaciones del instructor para realizar bien la actividad|			
+				
+				
+								
