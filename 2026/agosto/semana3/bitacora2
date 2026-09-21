@@ -1,5 +1,5 @@
-# plantilla control de trabajo diario ADSO
-# TABLA DE TRAZABILIDAD
+# plantilla control de trabajo diario ADSO.
+# TABLA DE TRAZABILIDAD.
 | ID|     Timestamp    |      autoria      |                                                                                                    Objeto Tecnico                                                                                                                                                                   |         impedimentos        | plan de accion|
 | 1 | 28/08/2026 13:32 | jose david castro | En el primer paso se utiliza el comando mkdir para crear la carpeta multiverso-git y con cd accedimos a dicho directorio, luego con el comando touch se creo un archivo txt el cual se le modifico y luego se guardó, usando el comando add y commit para confirmar y tomar la foto | Sin impedimentos operativos | no aplica     |
 | 2 | 28/08/2026 14:00 | jose david castro | "Luego con el comando git Branch creamos una línea alternativa y con el comando switch me movi en esa rama, luego con nano cambie el texto en el archivo txt y lo guarde con git add y git commit -m"                                                                               | Sin impedimentos operativos | no aplica     | 
